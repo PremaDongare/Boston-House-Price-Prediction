@@ -10,8 +10,8 @@
 
 Create a new environment
 --------------------------
-conda create -p ./venv python=3.7 -y
-conda init cmd.exe
-conda activate ./venv
+1. conda create -p ./venv python=3.7 -y
+2. conda init cmd.exe
+3. conda activate ./venv
 
 ------------------------------------
